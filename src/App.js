@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> this is axios app for api</h1>
+      <h1> this is a react practice project</h1>
     </div>
   );
 }
